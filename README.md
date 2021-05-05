@@ -5,6 +5,8 @@ Parts 1-7 are the course's Fundamentals section and parts 8-14 are the course's 
 
 [Course material & assignments (Finnish)](https://2017-ohjelmointi.github.io/)
 
+#### Some of the topic's covered by each part:
+
 #### Part 1 (30 Exercises)
 + Program and source code
 + Printing
@@ -13,28 +15,28 @@ Parts 1-7 are the course's Fundamentals section and parts 8-14 are the course's 
 + Calculating with numbers
 + Conditional statements and conditional operation
 
-### Part 2 (30 Exercises)
+#### Part 2 (30 Exercises)
 + Loops
 + Lists
 
-### Part 3 (19 Exercises)
+#### Part 3 (19 Exercises)
 + Classes and objects
 + Constructors
 + Methods
 
-### Part 4 (16 Exercises)
+#### Part 4 (16 Exercises)
 + Objects in lists
 + Objects and references
 
-### Part 5 (19 Exercises)
+#### Part 5 (19 Exercises)
 + Strings
 + List and stream
 
-### Part 6 (19 Exercises)
+#### Part 6 (19 Exercises)
 + Array
 + Algorithms
 
-### Part 7 (11 Exercises)
+#### Part 7 (11 Exercises)
 + Structure of the programs
 + Introduction to testing
 + Files
