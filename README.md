@@ -5,7 +5,7 @@ Chapters 1-7 are the course's Fundamentals section and chapters 8-14 are the cou
 
 [Course material & assignments (Finnish)](https://2017-ohjelmointi.github.io/)
 
-#### Some of the topic's covered by each part:
+#### Some of the topic's covered by each chapter:
 
 #### Chapter 1 (30 Exercises)
 + Program and source code
