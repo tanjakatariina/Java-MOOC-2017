@@ -1,5 +1,5 @@
 # Java MOOC 2017
-Exercises of "Ohjelmoinin MOOC 2017" Java online programming course, during my first year studies at Metropolia UAS, Bachelor of Engineering.
+Exercises for the "Ohjelmoinin MOOC 2017" Java online programming course, during my first year studies at Metropolia UAS, Bachelor of Engineering.
 
 Chapters 1-7 are the course's Fundamentals section and chapters 8-14 are the course's Advanced section.
 
