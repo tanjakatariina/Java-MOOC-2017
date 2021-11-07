@@ -7,7 +7,7 @@ Chapters 1-7 are the course's Fundamentals section and chapters 8-14 are the cou
 
 #### Some of the topic's covered by each chapter:
 
-#### Chapter 1 (30 Exercises)
+#### Chapter 1
 + Program and source code
 + Printing
 + Reading input
@@ -15,28 +15,28 @@ Chapters 1-7 are the course's Fundamentals section and chapters 8-14 are the cou
 + Calculating with numbers
 + Conditional statements and conditional operation
 
-#### Chapter 2 (30 Exercises)
+#### Chapter 2
 + Loops
 + Lists
 
-#### Chapter 3 (19 Exercises)
+#### Chapter 3
 + Classes and objects
 + Constructors
 + Methods
 
-#### Chapter 4 (16 Exercises)
+#### Chapter 4
 + Objects in lists
 + Objects and references
 
-#### Chapter 5 (19 Exercises)
+#### Chapter 5
 + Strings
 + List and stream
 
-#### Chapter 6 (19 Exercises)
+#### Chapter 6
 + Array
 + Algorithms
 
-#### Chapter 7 (11 Exercises)
+#### Chapter 7
 + Structure of the programs
 + Introduction to testing
 + Files
