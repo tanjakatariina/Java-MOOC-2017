@@ -40,3 +40,18 @@ Chapters 1-7 are the course's Fundamentals section and chapters 8-14 are the cou
 + Structure of the programs
 + Introduction to testing
 + Files
+
+#### Chapter 8
++ Hash Map
++ Object class
++ Interfaces
+
+#### Chapter 9
++ Packages
++ Exceptions
++ Interfaces
+
+#### Chapter 10
++ Hash Map
++ Object polymorphism
++ Inheritance
